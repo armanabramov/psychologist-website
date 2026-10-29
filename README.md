@@ -19,8 +19,8 @@
 - [docs/PROJECT_CONTEXT.md](docs/PROJECT_CONTEXT.md) — известные вводные и гипотезы.
 - [docs/REFERENCES.md](docs/REFERENCES.md) — исследования, ссылки и конкретные полезные решения.
 - [docs/DECISIONS.md](docs/DECISIONS.md) — журнал решений с причинами.
-- [docs/DESIGN_CONCEPT.md](docs/DESIGN_CONCEPT.md) — концепция v1 с токенами, типографикой и архитектурой.
-- [concepts/concept-v1.html](concepts/concept-v1.html) — адаптивный черновой HTML-макет (для просмотра скачайте файл).
+- [docs/OPEN_DESIGN_BRIEF.md](docs/OPEN_DESIGN_BRIEF.md) — **актуальный** бриф и промпт для прототипа в Open Design (палитра Dulux, skills, два направления первого экрана).
+- [docs/DESIGN_CONCEPT.md](docs/DESIGN_CONCEPT.md) и [concepts/concept-v1.html](concepts/concept-v1.html) — **отклонённые исторические черновики**, не использовать как визуальный референс.
 - [docs/BRIEF_SUMMARY.md](docs/BRIEF_SUMMARY.md) — **публичная обезличенная** выжимка из будущего брифа.
 - [docs/CONTENT_INVENTORY.md](docs/CONTENT_INVENTORY.md) — необходимые материалы и их статусы.
 - [docs/PRIVACY.md](docs/PRIVACY.md) — что нельзя публиковать в открытом репозитории.
