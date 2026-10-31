@@ -21,7 +21,8 @@
 - [docs/REFERENCE_RESEARCH_02.md](docs/REFERENCE_RESEARCH_02.md) — **отклонённая** подборка сайтов (сохраняется для истории).
 - [docs/UI_PRODUCT_RESEARCH.md](docs/UI_PRODUCT_RESEARCH.md) — **новый, ещё не утверждённый** поиск UX/UI-паттернов из современных приложений и сервисов.
 - [docs/DECISIONS.md](docs/DECISIONS.md) — журнал решений с причинами.
-- [docs/OPEN_DESIGN_PROMPT_RENZ.md](docs/OPEN_DESIGN_PROMPT_RENZ.md) — **актуальный полный промпт**: прототип всей страницы в UI-стилистике RENZ, Dulux и персональный профиль.
+- [docs/OPEN_DESIGN_PROMPT_RENZ.md](docs/OPEN_DESIGN_PROMPT_RENZ.md) — промпт исходной генерации: весь лендинг в UI-стилистике RENZ, Dulux и персональный профиль.
+- [docs/OPEN_DESIGN_PROTOTYPE_REVIEW_01.md](docs/OPEN_DESIGN_PROTOTYPE_REVIEW_01.md) — **актуальный review первого прототипа**, комплектность, палитра, реальные desktop/mobile проверки и правки для Open Design.
 - [docs/OPEN_DESIGN_BRIEF.md](docs/OPEN_DESIGN_BRIEF.md) — предыдущий подготовительный бриф, старый сценарий «два hero» больше не основной.
 - [docs/DESIGN_CONCEPT.md](docs/DESIGN_CONCEPT.md) и [concepts/concept-v1.html](concepts/concept-v1.html) — **отклонённые исторические черновики**, не использовать как визуальный референс.
 - [docs/BRIEF_SUMMARY.md](docs/BRIEF_SUMMARY.md) — **публичная обезличенная** выжимка из будущего брифа.
